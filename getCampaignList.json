@@ -1,0 +1,51 @@
+{
+    "status": true,
+    "message": "success",
+    "last_updated": "1559302178000",
+    "campaignList": [
+        {
+            "id": 1,
+            "name": "Campaign 1",
+            "description": "Text",
+            "terms": null,
+            "location": "IN",
+            "min_age": 18,
+            "max_age": 45,
+            "type": 0,
+            "max_budget": 2000,
+            "remuneration": 20,
+            "media_min_resoluation": "100x100",
+            "media_min_size": 15,
+            "media_max_size": 50,
+            "image": "c116d05c-f322-4d67-babe-3ac2c988ef8c.jpg",
+            "created_at": "1559302078000",
+            "updated_at": "1559302078000",
+            "image_url": "http://127.0.0.1:3333/uploads/campaign/images/c116d05c-f322-4d67-babe-3ac2c988ef8c.jpg",
+            "media_type": "image",
+            "availability": null,
+            "total_allocated": 100
+        },
+        {
+            "id": 2,
+            "name": "Campaign 2",
+            "description": "Text",
+            "terms": null,
+            "location": "US",
+            "min_age": 18,
+            "max_age": 50,
+            "type": 0,
+            "max_budget": 1000,
+            "remuneration": 50,
+            "media_min_resoluation": "1000x1000",
+            "media_min_size": 15,
+            "media_max_size": 50,
+            "image": "fdb1b6c2-a559-4b0e-846d-9429e8b99f73.jpg",
+            "created_at": "1559302178000",
+            "updated_at": "1559302178000",
+            "image_url": "http://127.0.0.1:3333/uploads/campaign/images/fdb1b6c2-a559-4b0e-846d-9429e8b99f73.jpg",
+            "media_type": "image",
+            "availability": null,
+            "total_allocated": 20
+        }
+    ]
+}
