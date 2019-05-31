@@ -7,7 +7,7 @@
       "id": 1,
       "name": "Campaign 1",
       "description": "Text",
-      "terms": "null",
+      "terms": "",
       "location": "IN",
       "min_age": 18,
       "max_age": 45,
